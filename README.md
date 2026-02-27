@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/73927115?v=4" width="150" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.5);" />
   <br>
-  <img src="https://tenor.com/view/one-piece-luffy-laughing-gif-4466491616097280265.gif" width="150" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.5);" />
+  <img src="https://c.tenor.com/9qL2G9b2XMkAAAAC/one-piece-luffy.gif" width="150" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.5);" />
 </div>
 
 <h1 align="center">
