@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Niraj%20Kathe&fontSize=90&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=75&descSize=30" width="100%" />
 </p>
 
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/73927115?v=4" width="150" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.5);" />
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh4a3h4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="150" />
+</div>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Application+Builder;Open+Source+Enthusiast;Problem+Solver;Code+Architect" alt="Typing" />
 </h1>
@@ -80,7 +86,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NIRU0802&theme=github-dark&hide_border=true&background=0d1117&stroke=c9d1d9&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=NIRU0802&theme=github-dark&hide_border=true&background=0d1117&stroke=c9d1d9&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" width="100%" />
 </p>
 
 ---
@@ -124,14 +130,6 @@
 
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=NIRU0802&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&hide_border=true" />
-</p>
-
----
-
-## 📊 WakaTime Stats
-
-<p align="center">
-  <img src="https://github-waka-readme-stats.vercel.app/api/wakatime?username=NIRU0802&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&line_height=27" />
 </p>
 
 ---
