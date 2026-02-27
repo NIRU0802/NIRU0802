@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/73927115?v=4" width="150" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.5);" />
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh4a3h4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="150" />
+  <img src="https://tenor.com/view/luffy-one-piece-gif-luffy-gif-luffy-smile-gif-24670105.gif" width="150" />
 </div>
 
 <h1 align="center">
