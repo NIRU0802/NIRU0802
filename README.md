@@ -1,10 +1,22 @@
 <!-- ================= HEADER ================= -->
 
+<!-- ================= SHIP + WAVES HEADER ================= -->
+
 <p align="left">
-  <img src="./ship-wave.svg" width="520"/>
+  <img 
+    src="https://raw.githubusercontent.com/NIRU0802/NIRU0802/main/ship.png"
+    width="260"
+  />
 </p>
 
-<br/>
+<p align="left">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:1f6feb,100:58a6ff&section=header"
+    width="100%"
+  />
+</p>
+
+<!-- ======================================================= -->
 
 <h1 align="center">Hi 👋, I'm Niraj Kathe</h1>
 
