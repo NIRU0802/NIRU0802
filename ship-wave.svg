@@ -28,7 +28,7 @@
   </path>
 
   <!-- SHIP FLOATING -->
-  <image href="./ship.png" x="340" y="85" width="220">
+  <image href="https://raw.githubusercontent.com/NIRU0802/NIRU0802/main/ship.png" x="340" y="85" width="220">
     <animateTransform
       attributeName="transform"
       type="translate"
