@@ -1,20 +1,13 @@
-<!-- ================= HEADER ================= -->
 
-<!-- ================= SHIP + WAVES HEADER ================= -->
-
-<p align="left">
-  <img 
-    src="https://raw.githubusercontent.com/NIRU0802/NIRU0802/main/ship.png"
-    width="260"
-  />
-</p>
+<!-- ================= SHIP ON OCEAN ================= -->
 
 <p align="left">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f6feb,100:58a6ff&section=footer"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/NIRU0802/NIRU0802/main/ship.png" width="260"/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1f6feb,100:58a6ff&section=footer"/>
 </p>
+
+<!-- ================================================= -->
 
 <!-- ======================================================= -->
 
