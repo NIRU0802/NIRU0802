@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
-<p align="center">
-  <img src="./ship.png" width="420" />
+<p align="left">
+  <img src="./ship-wave.svg" width="500"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Niraj Kathe</h1>
