@@ -11,7 +11,7 @@
 
 <p align="left">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:1f6feb,100:58a6ff&section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f6feb,100:58a6ff&section=footer"
     width="100%"
   />
 </p>
